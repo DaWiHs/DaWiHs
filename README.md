@@ -1,4 +1,4 @@
-[PL]
+[**PL**]
 Techink Informatyk, Student
 Dawid Szulc @DaWiHs
 
@@ -22,7 +22,7 @@ Kontakt:
 
 ======================
 
-[ENG]
+[**ENG**]
 IT Technician, Student
 Dawid Szulc @DaWiHs
 
