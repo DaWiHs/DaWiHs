@@ -12,11 +12,16 @@ Znam dobre podstawy języków i technologii takich jak:
 
 Głównie pracuję hobbistycznie w oprogramowaniu Unity na języku C#.
 
+
 Kontakt:
+
   szulcdawid02@gmail.com
+  
   +48 533 056 822
 
+
 ======================
+
 [ENG]
 IT Technician, Student
 Dawid Szulc @DaWiHs
@@ -31,6 +36,9 @@ Well known basics of following languages and technologies:
 
 Mainly works as hoby in Unity in C#.
 
+
 Contact info:
+
   szulcdawid02@gmail.com
+  
   +48 533 056 822
