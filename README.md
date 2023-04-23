@@ -10,7 +10,7 @@ Znam dobre podstawy języków i technologii takich jak:
 - C#
 - Web Dev: HTML, CSS, JS, PHP
 
-Głównie pracuję hobbistycznie w oprogramowaniu Unity na języku C#.
+Głównie pracuję hobbistycznie w oprogramowaniu Unity w języku C#.
 
 
 Kontakt:
@@ -34,7 +34,7 @@ Well known basics of following languages and technologies:
 - C#
 - Web Dev: HTML, CSS, JS, PHP
 
-Mainly works as hoby in Unity in C#.
+Mainly works as hobby in Unity in C#.
 
 
 Contact info:
